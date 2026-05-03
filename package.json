@@ -1,0 +1,20 @@
+{
+  "name": "gundemturkiye365-taslak",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://www.gundemturkiye365.com",
+  "description": "RSS toplayıcı ve haber arayüzü",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "rss-parser": "^3.13.0",
+    "sql.js": "^1.12.0"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.gundemturkiye365.com/sitemap.xml
+Sitemap: https://www.gundemturkiye365.com/news-sitemap.xml

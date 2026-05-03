@@ -1,0 +1,118 @@
+[
+  {
+    "url": "https://www.trthaber.com/sondakika.rss",
+    "name": "TRT Haber",
+    "lang": "tr",
+    "category": "gundem",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için trthaber.com kullanım şartlarına bakın."
+  },
+  {
+    "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel",
+    "name": "Anadolu Ajansı",
+    "lang": "tr",
+    "category": "gundem",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için aa.com.tr kurallarına bakın."
+  },
+  {
+    "url": "https://www.aa.com.tr/tr/rss/default?cat=ekonomi",
+    "name": "AA Ekonomi",
+    "lang": "tr",
+    "category": "ekonomi",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için aa.com.tr kurallarına bakın."
+  },
+  {
+    "url": "https://www.aa.com.tr/tr/rss/default?cat=spor",
+    "name": "AA Spor",
+    "lang": "tr",
+    "category": "spor",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için aa.com.tr kurallarına bakın."
+  },
+  {
+    "url": "https://www.aa.com.tr/tr/rss/default?cat=bilim-teknoloji",
+    "name": "AA Bilim ve Teknoloji",
+    "lang": "tr",
+    "category": "teknoloji",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için aa.com.tr kurallarına bakın."
+  },
+  {
+    "url": "https://www.aa.com.tr/tr/rss/default?cat=kultur-sanat",
+    "name": "AA Kültür-Sanat",
+    "lang": "tr",
+    "category": "kultur",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için aa.com.tr kurallarına bakın."
+  },
+  {
+    "url": "https://www.aa.com.tr/tr/rss/default?cat=yasam",
+    "name": "AA Yaşam",
+    "lang": "tr",
+    "category": "yasam",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için aa.com.tr kurallarına bakın."
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/turkce/rss.xml",
+    "name": "BBC Türkçe",
+    "lang": "tr",
+    "category": "dunya",
+    "licenseTag": "Kaynak RSS",
+    "license": "BBC Türkçe RSS; kullanım için bbc.co.uk koşulları geçerlidir."
+  },
+  {
+    "url": "https://rss.dw.com/xml/rss-tr-all",
+    "name": "DW Türkçe",
+    "lang": "tr",
+    "category": "dunya",
+    "licenseTag": "Kaynak RSS",
+    "license": "Deutsche Welle Türkçe; dw.com telif ve kullanım koşullarına bakın."
+  },
+  {
+    "url": "https://www.aa.com.tr/tr/rss/default?cat=medya",
+    "name": "AA Medya",
+    "lang": "tr",
+    "category": "video",
+    "licenseTag": "Kaynak RSS",
+    "license": "İçerik ve telif koşulları için aa.com.tr kurallarına bakın."
+  },
+  {
+    "url": "https://www.nasa.gov/news-release/feed/",
+    "name": "NASA",
+    "lang": "en",
+    "maxItems": 8,
+    "category": "teknoloji",
+    "licenseTag": "ABD kamu malı",
+    "license": "NASA haber ve görselleri çoğunlukla ABD federal kamu malıdır; ticari marka ve özel görüntü istisnaları için resmi NASA medya rehberine bakın."
+  },
+  {
+    "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=rss&categories=Published&namespace=0&count=40&stablepages=only",
+    "name": "Wikinews",
+    "lang": "en",
+    "maxItems": 8,
+    "category": "dunya",
+    "licenseTag": "CC BY",
+    "license": "İngilizce Wikinews maddeleri Creative Commons Atıf lisansı altındadır (sürüme göre CC BY 2.5 veya 4.0). Yeniden kullanımda atıf ve lisans bağlantısı gerekir."
+  },
+  {
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.atom",
+    "name": "USGS",
+    "lang": "en",
+    "maxItems": 10,
+    "category": "gundem",
+    "licenseTag": "US kamu verisi",
+    "license": "USGS deprem özet akışı ABD Jeolojik Araştırma Kurumu’nun kamuya açık veri yayınıdır."
+  },
+  {
+    "url": "https://www.eff.org/rss/updates.xml",
+    "name": "EFF",
+    "lang": "en",
+    "maxItems": 8,
+    "category": "teknoloji",
+    "licenseTag": "CC BY",
+    "license": "Electronic Frontier Foundation güncellemeleri genelde Creative Commons Atıf ile yayınlanır; tam koşullar için eff.org üzerindeki ilgili sayfaya bakın."
+  }
+]
